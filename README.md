@@ -1,3 +1,3 @@
 # VideoGameRepo
- This is a README for the VideoGameRepo.
+ This is a README for the VideoGameRepo
  
